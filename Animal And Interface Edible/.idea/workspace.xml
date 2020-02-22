@@ -30,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shap" />
   </component>
   <component name="RunManager">
     <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582382167977</updated>
-      <workItem from="1582382171926" duration="3530000" />
+      <workItem from="1582382171926" duration="4751000" />
     </task>
     <servers />
   </component>
@@ -68,6 +69,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="487" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582384157479" />
+    <state x="462" y="123" key="FileChooserDialogImpl" timestamp="1582387172473">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="123" key="FileChooserDialogImpl/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582387172473" />
     <state width="1321" height="181" key="GridCell.Tab.0.bottom" timestamp="1582385123353">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

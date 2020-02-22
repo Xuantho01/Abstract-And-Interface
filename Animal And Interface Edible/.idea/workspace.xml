@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa09ee9b-b4ee-4fc5-a990-cc127bb6f443" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAOw6NgYXo9WKfBEBLOR9uqC6g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAnimal" />
+      <module name="Animal And Interface Edible" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestAnimal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa09ee9b-b4ee-4fc5-a990-cc127bb6f443" name="Default Changelist" comment="" />
+      <created>1582382167977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582382167977</updated>
+      <workItem from="1582382171926" duration="2854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582382322496">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="454" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582382322496" />
+    <state x="487" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1582384157479">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="487" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582384157479" />
+    <state width="1321" height="181" key="GridCell.Tab.0.bottom" timestamp="1582385123353">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582385123353" />
+    <state width="1321" height="181" key="GridCell.Tab.0.center" timestamp="1582385123353">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="181" key="GridCell.Tab.0.center/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582385123353" />
+    <state width="1321" height="181" key="GridCell.Tab.0.left" timestamp="1582385123353">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="181" key="GridCell.Tab.0.left/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582385123353" />
+    <state width="1321" height="181" key="GridCell.Tab.0.right" timestamp="1582385123353">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="181" key="GridCell.Tab.0.right/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582385123353" />
+  </component>
+</project>

@@ -9,7 +9,8 @@ public class PhoneBook extends Phone implements PhoneFunction{
 
     public PhoneBook(){}
 
-    ArrayList<Phone> listBook = new ArrayList<>();
+    protected ArrayList<Phone> listBook = new ArrayList<>();
+
     public PhoneBook(String name, String phone) {
         super(name, phone);
     }

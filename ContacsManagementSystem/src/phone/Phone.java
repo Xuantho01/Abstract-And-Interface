@@ -1,9 +1,5 @@
 package phone;
 
-import phoneBook.PhoneBook;
-
-import java.util.ArrayList;
-
 public class Phone {
     protected String name;
     protected String phone;

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa09ee9b-b4ee-4fc5-a990-cc127bb6f443" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ContacsManagementSystem/ContacsManagementSystem.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +30,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShapCanResizeable" />
   </component>
   <component name="RunManager">
     <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -53,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582382167977</updated>
-      <workItem from="1582382171926" duration="4751000" />
+      <workItem from="1582382171926" duration="4752000" />
+      <workItem from="1582424708991" duration="4591000" />
     </task>
     <servers />
   </component>
@@ -69,25 +72,29 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="487" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582384157479" />
-    <state x="462" y="123" key="FileChooserDialogImpl" timestamp="1582387172473">
+    <state x="462" y="123" key="FileChooserDialogImpl" timestamp="1582442564893">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="462" y="123" key="FileChooserDialogImpl/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582387172473" />
-    <state width="1321" height="181" key="GridCell.Tab.0.bottom" timestamp="1582385123353">
+    <state x="462" y="123" key="FileChooserDialogImpl/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582442564893" />
+    <state width="1321" height="181" key="GridCell.Tab.0.bottom" timestamp="1582391642456">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582385123353" />
-    <state width="1321" height="181" key="GridCell.Tab.0.center" timestamp="1582385123353">
+    <state width="1321" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582391642456" />
+    <state width="1321" height="181" key="GridCell.Tab.0.center" timestamp="1582391642456">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="181" key="GridCell.Tab.0.center/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582385123353" />
-    <state width="1321" height="181" key="GridCell.Tab.0.left" timestamp="1582385123353">
+    <state width="1321" height="181" key="GridCell.Tab.0.center/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582391642456" />
+    <state width="1321" height="181" key="GridCell.Tab.0.left" timestamp="1582391642456">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="181" key="GridCell.Tab.0.left/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582385123353" />
-    <state width="1321" height="181" key="GridCell.Tab.0.right" timestamp="1582385123353">
+    <state width="1321" height="181" key="GridCell.Tab.0.left/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582391642456" />
+    <state width="1321" height="181" key="GridCell.Tab.0.right" timestamp="1582391642456">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="181" key="GridCell.Tab.0.right/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582385123353" />
+    <state width="1321" height="181" key="GridCell.Tab.0.right/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582391642456" />
+    <state x="64" y="0" key="new project wizard" timestamp="1582425348757">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="64" y="0" key="new project wizard/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1582425348757" />
   </component>
 </project>

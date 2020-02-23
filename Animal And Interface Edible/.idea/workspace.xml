@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa09ee9b-b4ee-4fc5-a990-cc127bb6f443" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ContacsManagementSystem/ContacsManagementSystem.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContacsManagementSystem/src/ManegerPhoneBook/MangerPhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ContacsManagementSystem/src/ManegerPhoneBook/MangerPhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContacsManagementSystem/src/PhoneFunction/phoneFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContacsManagementSystem/src/phone/phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ContacsManagementSystem/src/phone/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContacsManagementSystem/src/phoneBook/phoneBook.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582382167977</updated>
       <workItem from="1582382171926" duration="4752000" />
-      <workItem from="1582424708991" duration="4591000" />
+      <workItem from="1582424708991" duration="5182000" />
     </task>
     <servers />
   </component>

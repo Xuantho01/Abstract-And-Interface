@@ -14,6 +14,9 @@ public Square(double side,String color,boolean filled){
       setWidth(side);
       setLength(side);
     }
+    public double getArea(){
+    return getWidth()*getLength();
+    }
 
     @Override
     public void setWidth(double width){

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa09ee9b-b4ee-4fc5-a990-cc127bb6f443" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ContacsManagementSystem/out/production/ContacsManagementSystem/ManegerPhoneBook/MangerPhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ContacsManagementSystem/out/production/ContacsManagementSystem/ManegerPhoneBook/MangerPhoneBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContacsManagementSystem/out/production/ContacsManagementSystem/phone/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ContacsManagementSystem/out/production/ContacsManagementSystem/phone/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContacsManagementSystem/out/production/ContacsManagementSystem/phoneBook/PhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ContacsManagementSystem/out/production/ContacsManagementSystem/phoneBook/PhoneBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContacsManagementSystem/src/phoneBook/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ContacsManagementSystem/src/phoneBook/PhoneBook.java" afterDir="false" />
-    </list>
+    <list default="true" id="aa09ee9b-b4ee-4fc5-a990-cc127bb6f443" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
